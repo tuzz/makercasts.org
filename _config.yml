@@ -1,0 +1,6 @@
+destination: .site
+includes_dir: _components
+layouts_dir: _components
+sass:
+  sass_dir: _components
+  style: compressed
