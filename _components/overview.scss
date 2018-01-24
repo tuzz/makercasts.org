@@ -1,0 +1,26 @@
+.overview {
+  padding: 0 1em;
+  max-width: 50em;
+  margin: auto;
+}
+
+.overview__section {
+  padding: 0 0.2em;
+  max-width: 22em;
+  display: inline-block;
+}
+
+.overview__section--right {
+  float: right;
+}
+
+.overview__heading {
+  margin-top: 2em;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.overview__paragraph {
+  margin-top: 2em;
+  line-height: 1.5em;
+}
