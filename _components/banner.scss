@@ -2,15 +2,74 @@
   background: #222;
   border-bottom: 1em solid #666;
   text-align: center;
+  padding: 0 1em;
 }
 
 .banner__heading {
   font-size: 4.86em;
   font-weight: bold;
+  line-height: 1.4em;
   padding: 1.2em 0;
   color: white;
 }
 
 .banner__word--make {
   color: #37d278;
+}
+
+@media (min-width: 34em) and (max-width: 52em) {
+  .banner__heading {
+    padding: 0.4em 0;
+  }
+
+  .banner__word {
+    display: block;
+  }
+
+  .banner__word--imagine {
+    margin-left: -2.5em;
+  }
+
+  .banner__word--make {
+    margin-left: -0.4em;
+  }
+
+  .banner__word--explore {
+    margin-left: 2.8em;
+  }
+}
+
+@media (min-width: 28em) and (max-width: 34em) {
+  .banner__heading {
+    padding: 0.4em 0;
+  }
+
+  .banner__word {
+    display: block;
+  }
+
+  .banner__word--imagine {
+    margin-left: -1.1em;
+  }
+
+  .banner__word--make {
+    margin-left: -0.7em;
+  }
+
+  .banner__word--explore {
+    margin-left: 1.4em;
+  }
+}
+
+@media (max-width: 28em) {
+  .banner__heading {
+    display: inline-block;
+    padding: 0.25em 0;
+    margin-left: -0.3em;
+  }
+
+  .banner__word {
+    display: block;
+    text-align: left;
+  }
 }
