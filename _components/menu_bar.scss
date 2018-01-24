@@ -1,6 +1,5 @@
 .menu-bar {
   padding: 1em;
-  border-bottom: 1em solid #666;
 }
 
 .menu-bar__inner {
@@ -24,4 +23,34 @@
 
 .menu-bar__link--last {
   padding-right: 0;
+}
+
+@media (max-width: 44em) {
+  .menu-bar__link {
+    padding-right: 1em;
+  }
+
+  .menu-bar__link--last {
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 39em) {
+  .menu-bar {
+    text-align: center;
+    margin-left: -0.3em;
+  }
+
+  .menu-bar__list {
+    float: none;
+    margin: 1em 0 0.51em 0;
+  }
+
+  .menu-bar__link {
+    padding-right: 2.25em;
+  }
+
+  .menu-bar__link--last {
+    padding-right: 0;
+  }
 }
