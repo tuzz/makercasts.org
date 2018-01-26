@@ -1,25 +1,44 @@
 .banner {
   background: #222;
+  border-top: 1em solid #666;
   border-bottom: 1em solid #666;
   text-align: center;
   padding: 0 1em;
+  position: relative;
+  overflow: hidden;
 }
 
 .banner__heading {
   font-size: 4.86em;
   font-weight: bold;
   line-height: 1.4em;
-  padding: 1.2em 0;
+  padding: 1.23em 0;
   color: white;
+  position: relative;
+  z-index: 1;
+  margin-top: -0.1em;
 }
 
 .banner__word--make {
   color: #37d278;
 }
 
+.banner__background {
+  position: absolute;
+  top: 0.2em;
+  left: 0;
+  font-family: "Courier New";
+  word-break: break-all;
+  color: #333;
+}
+
+.banner__background:before {
+  content: $binary;
+}
+
 @media (min-width: 34em) and (max-width: 52em) {
   .banner__heading {
-    padding: 0.4em 0;
+    padding: 0.46em 0;
   }
 
   .banner__word {
@@ -41,7 +60,7 @@
 
 @media (min-width: 28em) and (max-width: 34em) {
   .banner__heading {
-    padding: 0.4em 0;
+    padding: 0.46em 0;
   }
 
   .banner__word {
@@ -64,8 +83,8 @@
 @media (max-width: 28em) {
   .banner__heading {
     display: inline-block;
-    padding: 0.25em 0;
-    margin-left: -0.3em;
+    padding: 0.36em 0;
+    margin-left: -0.4em;
   }
 
   .banner__word {
