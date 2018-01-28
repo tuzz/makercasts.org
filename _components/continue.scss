@@ -1,5 +1,5 @@
 .continue {
-  margin: 3em 0 4em 0;
+  margin: 4em 0;
   text-align: center;
 }
 
@@ -7,4 +7,10 @@
   display: inline-block;
   font-size: 1.2em;
   font-weight: bold;
+}
+
+@media (max-width: 49em) {
+  .continue {
+    margin-top: 3em;
+  }
 }

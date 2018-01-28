@@ -15,7 +15,7 @@
 
 .overview__heading {
   margin-top: 2em;
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: bold;
 }
 
@@ -25,7 +25,7 @@
   line-height: 1.5em;
 }
 
-@media (max-width: 48em) {
+@media (max-width: 49em) {
   .overview {
     padding: 0 0.5em 0 1em;
   }
@@ -34,10 +34,6 @@
     max-width: 30em;
     display: block;
     margin: auto;
-  }
-
-  .overview__heading {
-    margin-top: 1.5em;
   }
 
   .overview__paragraph {
@@ -50,6 +46,10 @@
 }
 
 @media (max-width: 34em) {
+  .overview__heading {
+    margin-top: 1.7em;
+  }
+
   .overview__section {
     max-width: 23em
   }
