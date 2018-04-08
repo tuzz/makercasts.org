@@ -11,6 +11,7 @@
 
 .overview__section--right {
   float: right;
+  min-width: 22em;
 }
 
 .overview__heading {
@@ -23,6 +24,22 @@
   max-width: 22em;
   margin-top: 2em;
   line-height: 1.5em;
+}
+
+.overview__paragraph--social {
+  a {
+    text-decoration: none;
+    margin-top: 2.2em;
+    display: block;
+  }
+
+  img {
+    width: 3em;
+    vertical-align: bottom;
+    position: relative;
+    top: 10px;
+    margin-right: 0.5em;
+  }
 }
 
 @media (max-width: 49em) {

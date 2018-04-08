@@ -36,6 +36,20 @@
   content: $binary;
 }
 
+.banner--launch {
+  .banner__word {
+    font-size: 95%;
+  }
+
+  .banner__word--summer {
+    color: #ffffbb;
+  }
+
+  .banner__word--2018 {
+    color: #ffffbb;
+  }
+}
+
 @media (min-width: 34em) and (max-width: 52em) {
   .banner__heading {
     padding: 0.46em 0;
@@ -85,6 +99,12 @@
     display: inline-block;
     padding: 0.36em 0;
     margin-left: -0.4em;
+  }
+
+  .banner--launch {
+    .banner__heading {
+      margin-left: 0;
+    }
   }
 
   .banner__word {

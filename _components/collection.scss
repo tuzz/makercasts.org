@@ -1,0 +1,32 @@
+.collection {
+  .collection__label {
+    display: block;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+  }
+
+  .collection__input {
+    font-size: 1em;
+    width: 15em;
+    height: 1.3em;
+  }
+
+  .collection__button {
+    font-size: 1em;
+    padding: 0.3em 0.5em;
+    margin: 0.5em 0 0 0.5em;
+    background: #00823b;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+
+  .collection__success {
+    display: none;
+  }
+
+  .collection__thanks {
+    font-weight: bold;
+    margin-bottom: 1.5em;
+  }
+}
