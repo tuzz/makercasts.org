@@ -1,5 +1,6 @@
 body {
   font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  padding-bottom: 5em;
 }
 
 audio {
@@ -33,11 +34,12 @@ a {
 
 h1 {
   font-size: 2em;
-  line-height: 1.4;
+  line-height: 1.4em;
 }
 
 h2 {
   font-size: 1.5em;
+  line-height: 1.2em;
 }
 
 time {
@@ -61,10 +63,6 @@ header {
 
 section {
   margin-top: 5em;
-}
-
-section time {
-  float: right;
 }
 
 p {
