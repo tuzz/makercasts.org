@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>My FLoC Experience</title>
+    <link>https://makercasts.org/podcasts/my-floc-experience</link>
+    <description>My name is Chris, and this year I’m attending the Federated Logic Conference, located in Oxford. This is a mini podcast series about my experiences while I’m here.</description>
+    <language>en</language>
+    <itunes:author>Chris Patuzzo</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://makercasts.org/podcasts/my-floc-experience/cover-art.jpg"/>
+    <itunes:owner>
+      <itunes:name>Chris Patuzzo</itunes:name>
+      <itunes:email>chris@patuzzo.co.uk</itunes:email>
+    </itunes:owner>
+    <itunes:type>serial</itunes:type>
+    <itunes:category text="Technology"/>
+
+    <item>
+      <title>#1: Introduction</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-1.m4a</guid>
+      <pubDate>Sat, 30 Jun 2018 23:25:11 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>First, let me tell you a bit about who I am and what this conference is.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-1.m4a" length="5212497" type="audio/mp4"/>
+      <itunes:duration>00:05:22</itunes:duration>
+    </item>
+
+    <item>
+      <title>#2: Measures of Expressiveness</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-2.m4a</guid>
+      <pubDate>Mon, 2 Jul 2018 22:40:50 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>Today was the first official day of the Logic and Learning summer school.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-2.m4a" length="7272618" type="audio/mp4"/>
+      <itunes:duration>00:07:30</itunes:duration>
+    </item>
+  </channel>
+</rss>
