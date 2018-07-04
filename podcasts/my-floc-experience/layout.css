@@ -52,6 +52,16 @@ nav {
   margin-top: 2em;
 }
 
+.podcast-links {
+  clear: both;
+  float: right;
+}
+
+.podcast-links img {
+  width: 2.5em;
+  margin-left: 3em;
+}
+
 header {
   margin: 3em 0;
 }
@@ -152,10 +162,12 @@ blockquote {
   pre {
     font-size: 75%;
   }
-}
 
-@media only screen and (max-width: 35em) {
   h1 {
     font-size: 1.8em;
+  }
+
+  .podcast-links {
+    float: none;
   }
 }
