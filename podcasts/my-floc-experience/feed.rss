@@ -42,7 +42,7 @@
       <title>#3: Alternative Viewpoints</title>
       <link>https://makercasts.org/podcasts/my-floc-experience</link>
       <guid>https://makercasts.org/podcasts/my-floc-experience/episode-3.m4a</guid>
-      <pubDate>Mon, 4 Jul 2018 00:19:00 +0100</pubDate>
+      <pubDate>Wed, 4 Jul 2018 00:19:00 +0100</pubDate>
       <author>Chris Patuzzo</author>
       <description>Bayesian networks and reinforcement learning were the topics for today.</description>
       <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-3.m4a" length="8460789" type="audio/mp4"/>
@@ -53,11 +53,33 @@
       <title>#4: Automata Learning</title>
       <link>https://makercasts.org/podcasts/my-floc-experience</link>
       <guid>https://makercasts.org/podcasts/my-floc-experience/episode-4.m4a</guid>
-      <pubDate>Mon, 4 Jul 2018 23:51:00 +0100</pubDate>
+      <pubDate>Wed, 4 Jul 2018 23:51:00 +0100</pubDate>
       <author>Chris Patuzzo</author>
       <description>Automata learning in the morning, followed by a tour of Oxford.</description>
       <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-4.m4a" length="6818981" type="audio/mp4"/>
       <itunes:duration>00:07:02</itunes:duration>
+    </item>
+
+    <item>
+      <title>#5: Crossing the Streams</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-5.m4a</guid>
+      <pubDate>Thu, 5 Jul 2018 23:57:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>Combining Markov decision processes with software verification.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-5.m4a" length="5955286" type="audio/mp4"/>
+      <itunes:duration>00:06:08</itunes:duration>
+    </item>
+
+    <item>
+      <title>#6: Droning On</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-6.m4a</guid>
+      <pubDate>Thu, 5 Jul 2018 23:58:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>Verifying the behaviour of drones and a truly exquisite song.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-6.m4a" length="6054789" type="audio/mp4"/>
+      <itunes:duration>00:06:14</itunes:duration>
     </item>
   </channel>
 </rss>
