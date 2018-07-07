@@ -81,5 +81,27 @@
       <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-6.m4a" length="6054789" type="audio/mp4"/>
       <itunes:duration>00:06:14</itunes:duration>
     </item>
+
+    <item>
+      <title>#7: Plausible Hypotheses</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-7.m4a</guid>
+      <pubDate>Sat, 7 Jul 2018 01:55:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>Are all hypotheses equal or are some better than others?</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-7.m4a" length="5794204" type="audio/mp4"/>
+      <itunes:duration>00:05:58</itunes:duration>
+    </item>
+
+    <item>
+      <title>#8: Program Synthesis</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-8.m4a</guid>
+      <pubDate>Sat, 7 Jul 2018 01:56:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>Test your 'general' knowledge in this innovative new game show.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-8.m4a" length="5675138" type="audio/mp4"/>
+      <itunes:duration>00:05:51</itunes:duration>
+    </item>
   </channel>
 </rss>
