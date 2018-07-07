@@ -103,5 +103,16 @@
       <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-8.m4a" length="5675138" type="audio/mp4"/>
       <itunes:duration>00:05:51</itunes:duration>
     </item>
+
+    <item>
+      <title>#9: Social Norms</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-9.m4a</guid>
+      <pubDate>Sat, 7 Jul 2018 22:39:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>Today was the final day of the Logic and Learning summer school.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-9.m4a" length="6361969" type="audio/mp4"/>
+      <itunes:duration>00:06:33</itunes:duration>
+    </item>
   </channel>
 </rss>
