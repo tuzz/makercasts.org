@@ -114,5 +114,16 @@
       <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-9.m4a" length="6361969" type="audio/mp4"/>
       <itunes:duration>00:06:33</itunes:duration>
     </item>
+
+    <item>
+      <title>#10: The Inside Scoop</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-10.m4a</guid>
+      <pubDate>Mon, 9 Jul 2018 00:26:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>A workshop on the pragmatics of SAT and some insider information.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-10.m4a" length="9060845" type="audio/mp4"/>
+      <itunes:duration>00:09:20</itunes:duration>
+    </item>
   </channel>
 </rss>
