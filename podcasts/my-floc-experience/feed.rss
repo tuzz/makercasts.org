@@ -125,5 +125,16 @@
       <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-10.m4a" length="9060845" type="audio/mp4"/>
       <itunes:duration>00:09:20</itunes:duration>
     </item>
+
+    <item>
+      <title>#11: Checkmate in Nine</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-11.m4a</guid>
+      <pubDate>Mon, 9 Jul 2018 22:22:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>A last minute change of mind to learn about quantifiable boolean formulae.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-11.m4a" length="6989468" type="audio/mp4"/>
+      <itunes:duration>00:07:12</itunes:duration>
+    </item>
   </channel>
 </rss>
