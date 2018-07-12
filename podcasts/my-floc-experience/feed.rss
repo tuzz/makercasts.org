@@ -136,5 +136,49 @@
       <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-11.m4a" length="6989468" type="audio/mp4"/>
       <itunes:duration>00:07:12</itunes:duration>
     </item>
+
+    <item>
+      <title>#12: SAT Conference</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-12.m4a</guid>
+      <pubDate>Thu, 12 Jul 2018 02:35:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>The first day of the the international SAT conference.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-12.m4a" length="6156208" type="audio/mp4"/>
+      <itunes:duration>00:06:21</itunes:duration>
+    </item>
+
+    <item>
+      <title>#13: S-S-S-Symmetry Breaker</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-13.m4a</guid>
+      <pubDate>Thu, 12 Jul 2018 02:36:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>Impress your friends by rotating a chess board.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-13.m4a" length="4230146" type="audio/mp4"/>
+      <itunes:duration>00:04:21</itunes:duration>
+    </item>
+
+    <item>
+      <title>#14: Proof Systems</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-14.m4a</guid>
+      <pubDate>Thu, 12 Jul 2018 02:37:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>Proof systems aren't as complicated as they sound.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-14.m4a" length="4777648" type="audio/mp4"/>
+      <itunes:duration>00:04:55</itunes:duration>
+    </item>
+
+    <item>
+      <title>#15: Bayesian Logic</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-15.m4a</guid>
+      <pubDate>Thu, 12 Jul 2018 02:38:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>Combining logical and probabilistic models of AI.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-15.m4a" length="4418644" type="audio/mp4"/>
+      <itunes:duration>00:04:33</itunes:duration>
+    </item>
   </channel>
 </rss>
