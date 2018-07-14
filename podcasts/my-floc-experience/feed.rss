@@ -191,5 +191,16 @@
       <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-16.m4a" length="4127988" type="audio/mp4"/>
       <itunes:duration>00:04:15</itunes:duration>
     </item>
+
+    <item>
+      <title>#17: Group Photo</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-17.m4a</guid>
+      <pubDate>Thu, 14 Jul 2018 19:56:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>More flavours of SAT, a group photo and a business meeting.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-17.m4a" length="6558366" type="audio/mp4"/>
+      <itunes:duration>00:06:45</itunes:duration>
+    </item>
   </channel>
 </rss>
