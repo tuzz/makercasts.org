@@ -180,5 +180,16 @@
       <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-15.m4a" length="4418644" type="audio/mp4"/>
       <itunes:duration>00:04:33</itunes:duration>
     </item>
+
+    <item>
+      <title>#16: Coffee</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-16.m4a</guid>
+      <pubDate>Thu, 14 Jul 2018 16:41:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>This episode is dedicated to my coffee enthusiast friend, Leo Cassarani.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-16.m4a" length="4127988" type="audio/mp4"/>
+      <itunes:duration>00:04:15</itunes:duration>
+    </item>
   </channel>
 </rss>
