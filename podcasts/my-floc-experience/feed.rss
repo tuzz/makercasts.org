@@ -185,7 +185,7 @@
       <title>#16: Coffee</title>
       <link>https://makercasts.org/podcasts/my-floc-experience</link>
       <guid>https://makercasts.org/podcasts/my-floc-experience/episode-16.m4a</guid>
-      <pubDate>Thu, 14 Jul 2018 16:41:00 +0100</pubDate>
+      <pubDate>Sat, 14 Jul 2018 16:41:00 +0100</pubDate>
       <author>Chris Patuzzo</author>
       <description>This episode is dedicated to my coffee enthusiast friend, Leo Cassarani.</description>
       <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-16.m4a" length="4127988" type="audio/mp4"/>
@@ -196,11 +196,22 @@
       <title>#17: Group Photo</title>
       <link>https://makercasts.org/podcasts/my-floc-experience</link>
       <guid>https://makercasts.org/podcasts/my-floc-experience/episode-17.m4a</guid>
-      <pubDate>Thu, 14 Jul 2018 19:56:00 +0100</pubDate>
+      <pubDate>Sat, 14 Jul 2018 19:56:00 +0100</pubDate>
       <author>Chris Patuzzo</author>
       <description>More flavours of SAT, a group photo and a business meeting.</description>
       <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-17.m4a" length="6558366" type="audio/mp4"/>
       <itunes:duration>00:06:45</itunes:duration>
+    </item>
+
+    <item>
+      <title>#18: Reflections</title>
+      <link>https://makercasts.org/podcasts/my-floc-experience</link>
+      <guid>https://makercasts.org/podcasts/my-floc-experience/episode-18.m4a</guid>
+      <pubDate>Sun, 15 Jul 2018 13:40:00 +0100</pubDate>
+      <author>Chris Patuzzo</author>
+      <description>My last day at FLoC, with an awards ceremony and some final thoughts.</description>
+      <enclosure url="https://makercasts.org/podcasts/my-floc-experience/episode-18.m4a" length="6653372" type="audio/mp4"/>
+      <itunes:duration>00:06:51</itunes:duration>
     </item>
   </channel>
 </rss>
